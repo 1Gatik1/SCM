@@ -3,7 +3,7 @@ using  namespace std;
 int main()
 {
     int i, j,temp,pass=0;
-    int a[10]= {10,2,9,33,43,25,18,1,5,47};
+    int a[10]={11,2,9,33,43,25,18,1,5,47};
     cout <<"Input list ...\n";
     for(i=0 ; i< 10 ; i++) 
     {
@@ -34,3 +34,4 @@ int main()
 // changed 14 to 33
 // changed 0 to 9
 // changed 45 to 47
+// changed 10 to 11
